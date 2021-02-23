@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KamilaSouza
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Java
 
 
 
