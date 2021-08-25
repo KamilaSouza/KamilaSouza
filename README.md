@@ -8,7 +8,7 @@ I’m currently learning Java
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Ka J" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="right" alt="Kami" src="https://im2.ezgif.com/tmp/ezgif-2-d4c3dfd035e2.gif"> 
+  <img align="right" alt="Kami" src="https://media.discordapp.net/attachments/647227418066812949/880208177218588752/53b6ef022004efa7d021f098a13d7f74.gif"> 
 </div>
   
   ##
