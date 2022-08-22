@@ -1,10 +1,7 @@
 ## Hello! I’m Kamila Souza
 I’m currently learning Java 
 
- <div>
-  <a href="https://github.com/KamilaSouza"> 
-   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamilaSouza&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Ka J" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="right" alt="Kami" src="https://cdn.discordapp.com/attachments/647227418066812949/880209486445428746/picasion.com_15288e332f86b0c8ce70d03c5e87e36e.gif"> 
