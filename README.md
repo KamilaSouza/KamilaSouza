@@ -1,5 +1,5 @@
 ## Hello! I’m Kamila Souza
-I’m currently learning Java 
+I’m a developer learning 
 
 
 <div style="display: inline_block"><br>
