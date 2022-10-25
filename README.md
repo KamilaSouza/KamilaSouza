@@ -1,5 +1,6 @@
 ## Hello! I’m Kamila Souza
-I’m a developer learning 
+I’m a developer learning <br>
+ONE - Oracle Next Education Student
 
  <div>
   <a href="https://github.com/KamilaSouza">
