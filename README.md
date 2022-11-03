@@ -1,6 +1,6 @@
 ## Hello! I’m Kamila Souza
-I’m a developer learning <br>
-ONE - Oracle Next Education Student
+I’m a developer and Data learning <br>
+ONE - Oracle Next Education Student <br>
 
  <div>
   <a href="https://github.com/KamilaSouza">
